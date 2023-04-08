@@ -1,0 +1,63 @@
+Index: Calculator/Weight_converter.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Calculator/Weight_converter.py b/Calculator/Weight_converter.py
+--- a/Calculator/Weight_converter.py	
++++ b/Calculator/Weight_converter.py	
+@@ -1,0 +1,15 @@
++weight = float(input("Enter your weight: "))
++unit = input("kg or pound? ( K or L )")
++
++
++if unit == "k":
++    weight = weight * 2.205
++    unit = "Lbs."
++    print(f"your weight is {round(weight,2)} {unit} ")
++
++elif unit == "L":
++        weight = weight / 2.205
++        unit = "kgs "
++        print(f"your weight is {round(weight, 2)} {unit} ")
++else:
++    print("invalid unit")
+\ No newline at end of file
+Index: Calculator/normal_operator.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Calculator/normal_operator.py b/Calculator/normal_operator.py
+--- a/Calculator/normal_operator.py	
++++ b/Calculator/normal_operator.py	
+@@ -1,0 +1,29 @@
++operator = input ("input your operator: ")
++
++num1 = float(input("input the num1: "))
++num2 = float(input("input the num2: "))
++
++if operator == "+":
++
++  result = num1 + num2
++  print(round(result, 1))
++
++elif operator == "-":
++ result = num1 - num2
++
++ print(round(result, 1))
++
++elif operator == "*":
++
++   result = num1 * num2
++   print(round(result, 3))
++
++elif operator == "/":
++       result = num1/num2
++       print(round(result, 3))
++
++else:
++    print(f" {operator} is invalid" )
++
++
++

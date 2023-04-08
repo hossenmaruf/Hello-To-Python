@@ -1,0 +1,38 @@
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>operator = input (\"input your operator: \")\r\n\r\nnum1 = float(input(\"input the num1: \"))\r\nnum2 = float(input(\"input the num2: \"))\r\n\r\nif operator == \"+\":\r\n\r\n  result = num1 + num2\r\n  print(round(result, 1))\r\n\r\nelif operator == \"-\":\r\n result = num1 - num2\r\n\r\n print(round(result, 1))\r\n\r\nelif operator == \"*\":\r\n\r\n   result = num1 * num2\r\n   print(round(result, 3))\r\n\r\nelif operator == \"/\":\r\n       result = num1/num2\r\n       print(round(result, 3))\r\n\r\nelse:\r\n    print(f\"{operator} is invalid\")\r\n\r\n\r\n\r\n
+===================================================================
+diff --git a/main.py b/main.py
+--- a/main.py	
++++ b/main.py	
+@@ -1,29 +1,0 @@
+-operator = input ("input your operator: ")
+-
+-num1 = float(input("input the num1: "))
+-num2 = float(input("input the num2: "))
+-
+-if operator == "+":
+-
+-  result = num1 + num2
+-  print(round(result, 1))
+-
+-elif operator == "-":
+- result = num1 - num2
+-
+- print(round(result, 1))
+-
+-elif operator == "*":
+-
+-   result = num1 * num2
+-   print(round(result, 3))
+-
+-elif operator == "/":
+-       result = num1/num2
+-       print(round(result, 3))
+-
+-else:
+-    print(f"{operator} is invalid")
+-
+-
+-
