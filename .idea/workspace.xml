@@ -4,13 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f99ae363-54c2-4142-8166-829a7b7a2917" name="Changes" comment="" />
+    <list default="true" id="f99ae363-54c2-4142-8166-829a7b7a2917" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Calculator/temperature_conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/Weight_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Weight_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/normal_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/normal_operator.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
