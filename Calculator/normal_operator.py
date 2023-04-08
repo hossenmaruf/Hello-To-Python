@@ -6,7 +6,7 @@ num2 = float(input("input the num2: "))
 if operator == "+":
 
   result = num1 + num2
-  print(round(result, 1))
+  print(round(result,  1))
 
 elif operator == "-":
  result = num1 - num2
@@ -20,7 +20,7 @@ elif operator == "*":
 
 elif operator == "/":
        result = num1/num2
-       print(round(result, 3))
+       print(round(result, 4))
 
 else:
     print(f"{operator} is invalid")
