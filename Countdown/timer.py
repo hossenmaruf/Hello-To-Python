@@ -1,6 +1,6 @@
 import time
 
-my_time = int(input("Enter the time in secoands: "))
+my_time = int(input("Enter the time in secoands:"))
 
 for x in range(my_time , 0 , -1):
     seconds = x % 60
