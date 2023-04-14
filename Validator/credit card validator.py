@@ -29,7 +29,7 @@ total = sum_even_digit + sum_odd_digit
 if total % 10 == 0:
     print("Credit card is valid")
 else:
-    print("your credit is invalid")
+    print("your credit card is invalid")
 
 
 
