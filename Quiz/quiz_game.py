@@ -3,7 +3,6 @@ questions = ("how many elements are in the periodic table?: ",
              "what is the most abundant gas in the atmosphere? : ",
              "how many bones in the human body?: ")
 
-
 options = (("A.116", "B.117", "C.118", "D.119"),
            ("A.whale", "B.crocodile", "C.elephant", "D.ostrich"),
            ("A.N2", "B.O2", "C.NO2", "D.H2"),
@@ -32,7 +31,6 @@ for question in questions:
 
     question_number += 1
 
-
 print("----------")
 print("Result")
 print("---------")
@@ -41,7 +39,6 @@ print("answers: ", end=" ")
 for ans in answers:
     print(ans, end=" ")
 print()
-
 
 print("guesses: ",end=" ")
 for guess in guesses:
