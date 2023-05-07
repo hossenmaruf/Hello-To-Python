@@ -21,6 +21,3 @@ for price in prices:
 
 print(f"your food total price is: ${total}")
 
-
-
-
