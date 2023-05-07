@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f99ae363-54c2-4142-8166-829a7b7a2917" name="Changes" comment="Quiz Game">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2023_5_38_PM_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2023_5_38_PM__Changes_1.xml" beforeDir="false" />
+    <list default="true" id="f99ae363-54c2-4142-8166-829a7b7a2917" name="Changes" comment="concession stand program">
+      <change afterPath="$PROJECT_DIR$/Game/rock_paper_scissors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validator/cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Validator/cart.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--follow-tags" />
@@ -217,7 +216,35 @@
       <option name="project" value="LOCAL" />
       <updated>1683453514766</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Quiz Game">
+      <created>1683453641129</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683453641130</updated>
+    </task>
+    <task id="LOCAL-00017" summary="cart concession stand program">
+      <created>1683453703283</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683453703283</updated>
+    </task>
+    <task id="LOCAL-00018" summary="cart_ concession stand program">
+      <created>1683453855880</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1683453855880</updated>
+    </task>
+    <task id="LOCAL-00019" summary="concession stand program">
+      <created>1683453931983</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1683453931983</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +269,9 @@
     <MESSAGE value="credit card validator" />
     <MESSAGE value="SHOPPING CART PROGRAM" />
     <MESSAGE value="Quiz Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quiz Game" />
+    <MESSAGE value="cart concession stand program" />
+    <MESSAGE value="cart_ concession stand program" />
+    <MESSAGE value="concession stand program" />
+    <option name="LAST_COMMIT_MESSAGE" value="concession stand program" />
   </component>
 </project>
