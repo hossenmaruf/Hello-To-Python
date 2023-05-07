@@ -8,7 +8,6 @@ menu = {"pizza": 2.00,
 cart = []
 total = 0
 
-
 print("------ MENU _____")
 
 

@@ -17,6 +17,10 @@ while True:
             print(food, end=" ")
 
 for price in prices:
-         total += price
+    total += price
 
 print(f"your food total price is: ${total}")
+
+
+
+

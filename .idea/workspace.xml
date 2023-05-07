@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f99ae363-54c2-4142-8166-829a7b7a2917" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Calculator/temperature_conversion.py" afterDir="false" />
+    <list default="true" id="f99ae363-54c2-4142-8166-829a7b7a2917" name="Changes" comment="Quiz Game">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2023_5_38_PM_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_4_8_2023_5_38_PM__Changes_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/Weight_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/Weight_converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/normal_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/normal_operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validator/cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Validator/cart.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/sever/PycharmProjects/hello WORLD&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -60,6 +60,27 @@
   }
 }</component>
   <component name="RunManager">
+    <configuration name="Shopping cart program" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hello WORLD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Validator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Validator/Shopping cart program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="hello WORLD" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,6 +112,112 @@
       <option name="presentableId" value="Default" />
       <updated>1679084213134</updated>
     </task>
+    <task id="LOCAL-00001" summary="round">
+      <created>1680955463650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680955463650</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hello">
+      <created>1680957195282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680957195282</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hello hi">
+      <created>1680957255388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680957255388</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Temperature conversion">
+      <created>1680958251062</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680958251062</updated>
+    </task>
+    <task id="LOCAL-00005" summary="interest calculation">
+      <created>1681466715876</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681466715876</updated>
+    </task>
+    <task id="LOCAL-00006" summary="interest_calculation">
+      <created>1681466958338</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681466958338</updated>
+    </task>
+    <task id="LOCAL-00007" summary="interest_calculation">
+      <created>1681467978442</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681467978442</updated>
+    </task>
+    <task id="LOCAL-00008" summary="countdown">
+      <created>1681469007265</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681469007265</updated>
+    </task>
+    <task id="LOCAL-00009" summary="credit card validator">
+      <created>1681472553449</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681472553449</updated>
+    </task>
+    <task id="LOCAL-00010" summary="credit card validator">
+      <created>1681473077135</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681473077135</updated>
+    </task>
+    <task id="LOCAL-00011" summary="SHOPPING CART PROGRAM">
+      <created>1682804845150</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682804845150</updated>
+    </task>
+    <task id="LOCAL-00012" summary="SHOPPING CART PROGRAM">
+      <created>1682946005705</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682946005705</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Quiz Game">
+      <created>1682946195975</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682946195975</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Quiz Game">
+      <created>1682947016922</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682947016922</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Quiz Game">
+      <created>1683453514766</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1683453514766</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +230,18 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="round" />
+    <MESSAGE value="hello" />
+    <MESSAGE value="hello hi" />
+    <MESSAGE value="Temperature conversion" />
+    <MESSAGE value="interest calculation" />
+    <MESSAGE value="interest_calculation" />
+    <MESSAGE value="countdown" />
+    <MESSAGE value="credit card validator" />
+    <MESSAGE value="SHOPPING CART PROGRAM" />
+    <MESSAGE value="Quiz Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quiz Game" />
   </component>
 </project>
