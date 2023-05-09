@@ -3,12 +3,21 @@ import string
 
 chars = " " + string.punctuation + string.digits + string.ascii_letters
 
-print(chars)
 
 chars = list(chars)
 key = chars.copy()
 
 random.shuffle(key)
 
-print(f"chars: {chars}")
-print(f"key : {key}")
+#Encryption
+
+user_text = input("Enter your secret text: ")
+encrypt_text = ""
+
+for letter in user_text:
+    index = chars.index(letter)
+    encrypt_text += key[index]
+
+
+print(f"your original text : {user_text}")
+print(f"encryption text    : {encrypt_text}")
