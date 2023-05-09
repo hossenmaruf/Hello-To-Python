@@ -10,4 +10,7 @@ for die in range(number_of_dic):
     dice.append(random.randint(1, 6))
 
 
-print(dice)
+for die in dice:
+    total += die
+
+print(f"your total is {total}")
