@@ -18,7 +18,7 @@ for letter in user_text:
 print(f"your original text : {user_text}")
 print(f"encryption text    : {encrypt_text}")
 
-#Decrypt
+#Decryption
 
 encrypt_text = input("Enter your secret text: ")
 user_text = ""
