@@ -13,3 +13,5 @@ class Dog(Animal):
 
 dog = Dog()
 print(dog.alive)
+dog.eat()
+dog.bark()
