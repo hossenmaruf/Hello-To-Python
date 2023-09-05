@@ -9,7 +9,11 @@ class Animal:
         print("aminaal is sleeping")
 
 class Rabbit(Animal):
-    pass
+
+
+    def run(self):
+        print("this rabbit can run")
+
 class Fish(Animal):
     pass
 class Hawk(Animal):
@@ -21,3 +25,4 @@ hawk = Hawk()
 
 
 print(rabbit.alive)
+rabbit.run()
