@@ -1,15 +1,25 @@
-def loud(text):
-    return text.upper()
+# def loud(text):
+#     return text.upper()
+#
+#
+# def quit(text):
+#     return text.lower()
+#
+#
+# def hello(func):
+#     text = func("hello")
+#     print(text)
+#
+#
+# hello(loud)
+# hello(quit)
 
 
-def quit(text):
-    return text.lower()
+def divisor(x):
+    def dividend(y):
+        return y/x
+    return dividend
 
 
-def hello(func):
-    text = func("hello")
-    print(text)
-
-
-hello(loud)
-hello(quit)
+divide = divisor(2)
+print(divide(10))
