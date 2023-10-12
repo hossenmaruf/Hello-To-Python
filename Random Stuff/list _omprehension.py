@@ -13,7 +13,7 @@ print(squares)
 squares = [i * i for i in range(1,11)]
 print(squares)
 
-# --------------------------------------------------------------
+
 students = [100,90,80,70,60,50,40,30,0]
 
 #passed_students = list(filter(lambda x: x >= 60, students))
